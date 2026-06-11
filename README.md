@@ -1,3 +1,4 @@
 # simple-python-calculator
 Just a simple python calculator with a gui and themes. 
 I have used a little bit of AI as this is my first time ever coding. 
+I started to build my first ever calculator like the ones we have in our schools. I ran into issues such as the addition and multiplication not working but I think I fixed those two, division and subtraction should all be ok. Also my timer is not working for some random reason I wonder how I could fix it. I am currently using Vs Code from Microsoft. I wonder if I could call tech support. Also Gemini assisted me in fixing my mistakes, they were pretty simple, on addition I forgot to put a parentheses and on multiplication I accidentally used a and b instead of the x and y I had been using for the rest but it should be fixed now. Tomorrow, I will try to make a GUI for this calculator and I think that would be all for this project.
